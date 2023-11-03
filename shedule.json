@@ -11,13 +11,13 @@
                 "id": 1,
                 "name": "Day 2",
                 "listNumber": 1,
-                "lists": [4,2,0]
+                "lists": [5,12,20]
             },
             {
                 "id": 2,
                 "name": "Day 3",
                 "listNumber": 2,
-                "lists": [0,2,4]
+                "lists": [25,27,36]
             }
     ]
 }
