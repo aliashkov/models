@@ -4,62 +4,17 @@
             {
                 "id": 0,
                 "name": "Day 1",
-                "lists": [
-                    "exercises" : [  
-                        {
-                           "id": 4,
-                           "isCompleted": "false",
-                        },
-                        {
-                           "id": 2,
-                           "isCompleted": "false",
-                        },
-                        {
-                           "id": 0,
-                           "isCompleted": "false",
-                        }
-                    ]
-                ]
+                "lists": [2,4,0]
             },
             {
                 "id": 1,
                 "name": "Day 2",
-                "lists": [
-                    "exercises" : [  
-                        {
-                           "id": 2,
-                           "isCompleted": "false",
-                        },
-                        {
-                           "id":42,
-                           "isCompleted": "false",
-                        },
-                        {
-                           "id": 0,
-                           "isCompleted": "false",
-                        }
-                    ]
-                ]
+                "lists": [4,2,0]
             },
             {
                 "id": 2,
                 "name": "Day 3",
-                "lists": [
-                    "exercises" : [  
-                        {
-                           "id": 0,
-                           "isCompleted": "false",
-                        },
-                        {
-                           "id": 2,
-                           "isCompleted": "false",
-                        },
-                        {
-                           "id": 4,
-                           "isCompleted": "false",
-                        }
-                    ]
-                ]
+                "lists": [0,2,4]
             }
     ]
 }
